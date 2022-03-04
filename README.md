@@ -42,6 +42,8 @@ git push origin R01           # 上傳本地進度
 
 接著改成到 GitHub 來發 PR。
 
++ [餐廳論壇](https://serene-reef-61594.herokuapp.com/signin)
+
 ## 共用帳號
 請一律設定下面 2 組帳號以利驗收：
 * 第一組帳號有 admin 權限：
